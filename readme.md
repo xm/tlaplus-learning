@@ -4,6 +4,7 @@ Resources:
 - [Homepage](https://lamport.azurewebsites.net/tla/tla.html)
 - [Cheatsheet](https://lamport.azurewebsites.net/tla/summary-standalone.pdf)
 - [Videos](https://lamport.azurewebsites.net/video/videos.html)
+- [LearnTLA](https://learntla.com/introduction/)
 
 Papers
 - [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
