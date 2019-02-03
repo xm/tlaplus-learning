@@ -2,8 +2,6 @@
 .DS_Store
 
 # TLA+ Toolbox
-## Ignore generated PDFs
-*.pdf
 ## Do not ignore the relevant model files/folders
 /*.toolbox/*
 !/*.toolbox/
@@ -13,4 +11,9 @@
 /*.toolbox/.settings/*
 !/*.toolbox/.settings/
 !/*.toolbox/.settings/org.lamport.tla.toolbox.prefs
-
+## Ignore snapshots, logs, PDFS, LaTeX files
+*_SnapShot_*
+*.log
+*.out
+*.pdf
+*.tex
