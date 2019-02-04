@@ -28,6 +28,3 @@ Decide(r) == \/ /\ rmState[r] = "prepared"
 
 TCNext == \E r \in RM : Prepare(r) \/ Decide(r)
 =============================================================================
-\* Modification History
-\* Last modified Sat Feb 02 16:33:21 PST 2019 by christianm
-\* Created Sat Feb 02 15:26:09 PST 2019 by christianm
